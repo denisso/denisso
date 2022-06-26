@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @denisso
 - 👀 I’m interested in Javascript and web development
-- 🌱 I’m currently learning React, Redux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 
 <!---
