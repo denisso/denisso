@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisso
-- 👀 I’m interested in Javascript and web development
+- 👀 I’m interested in React web development
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 
