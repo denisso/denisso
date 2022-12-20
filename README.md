@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @denisso
 - 👀 I’m interested in React web development
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me by [telegram](https://t.me/DenisReactWebCoder)
+- 📫 How to reach me by [telegram](https://t.me/DenisReactWebCoder) 
+- [my personal page](https://mrdramm.netlify.app/)
 
 <!---
 denisso/denisso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
